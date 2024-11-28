@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<student_activities>
+	<Club>
+		<Title>Інформатика</Title>
+		<Faculty>Комп'ютерних наук</Faculty>
+		<Department>Інформатика</Department>
+		<Schedule>
+			<Day>П'ятниця</Day>
+			<Time>16:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Тетяна</FirstName>
+			<LastName>Ярошенко</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Вихованець</FirstName>
+			<LastName>Андрій</LastName>
+		</Starosta>
+	</Club>
+	<Club>
+		<Title>Поліглот</Title>
+		<Faculty>Іноземних мов</Faculty>
+		<Department>Відділення англійської мови</Department>
+		<Schedule>
+			<Day>Понеділок</Day>
+			<Time>15:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Людмила</FirstName>
+			<LastName>Леонідівна</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Захарченко</FirstName>
+			<LastName>Богдан</LastName>
+		</Starosta>
+	</Club>
+	<Club>
+		<Title>Рукоділля</Title>
+		<Faculty>Трудове навчання та технології</Faculty>
+		<Department>Відділеня трудового навчання</Department>
+		<Schedule>
+			<Day>Четвер</Day>
+			<Time>14:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Владислав</FirstName>
+			<LastName>Горобійченко</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Єгор</FirstName>
+			<LastName>Остапенко</LastName>
+		</Starosta>
+	</Club>
+	<Club>
+		<Title>Математичні науки</Title>
+		<Faculty>Прикладної математики</Faculty>
+		<Department>Відділення програмування</Department>
+		<Schedule>
+			<Day>Вівторок</Day>
+			<Time>18:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Віктор</FirstName>
+			<LastName>Іванов</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Віктор</FirstName>
+			<LastName>Павленко</LastName>
+		</Starosta>
+	</Club>
+	<Club>
+		<Title>Гуманітарні науки</Title>
+		<Faculty>Кібернетики</Faculty>
+		<Department>Відділення філософії</Department>
+		<Schedule>
+			<Day>Середа</Day>
+			<Time>17:00</Time>
+		</Schedule>
+		<Leader>
+			<FirstName>Михайло</FirstName>
+			<LastName>Гончар</LastName>
+		</Leader>
+		<Starosta>
+			<FirstName>Владислава</FirstName>
+			<LastName>Петрачкова</LastName>
+		</Starosta>
+	</Club>
+</student_activities>
